@@ -28,9 +28,9 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 
 ---
 
-### What I'm Fluent In
+### What I'm Currently Fluent In
 
-~ **LUA/LUAU** - I actually started my coding career thanks to ROBLOX when I was 14 years old... Yes, the kid's game platform. Surprisingly, it taught me alot of the core concepts of programming!
+~ **LUA/LUAU** - I actually started my coding career thanks to ROBLOX when I was 14/15 years old... Yes, the kid's game platform. Surprisingly, it taught me alot of the core concepts of programming!
 
 ~ **Javascript**
 
