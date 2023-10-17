@@ -40,7 +40,7 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 
 First of all why? I'm not even ready for a job... Yet
 
-**Portfolio Link:** *Not yet, I'll get put it here when it's finished*
+**Portfolio Link:** *Not yet, I'll get put it here when it's finished*  
 **Email:** Haha, nope.. Maybe later.
 
 <!---
