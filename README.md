@@ -12,19 +12,27 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 
 ### My Goals
 
-⚒️ **1:** Be fluent in this tech stack;
+⚒️ **1:** Be fluent in this tech stuff;
 
-~ HTML/CSS ✅ (2022)  
-~ JavaScript ✅ (2022)  
-~ React.js ⚒️  
-~ Node.js ⚒️  
-~ Next.js  
-~ C#  
-~ Blazor or ASP.NET  
+~ **HTML/CSS/JavaScript** ✅ (2022-2023)  
+~ **React.js (Vite)** ⚒️ (1/16/2024 - Finished first real project using React + Vite 😎👉 https://github.com/BrandonMartinDev/Finanza-JS)  
+~ **TypeScript** ⚒️  
+~ **Sass/Scss** ⚒️  
+~ **Node.js** ⚒️  
+~ **SQL/NoSQL**  
+~ **Next.js**  
+~ **C#**  
+~ **Blazor** or **ASP.NET**  
 
-**2:** Secure a good (or at least ok) job 
+**2:** Secure a good job 
 
-**3:** Be that one programmer on a beach in a foreign country working remote doing my passion... Yeah, don't we all wish this huh?
+**3:** Be that one programmer on a beach, in a foreign country, working remote, and doing my passion... Doesn't everyone going into tech wish this huh?
+
+**4:** When I got nothing else to do, maybe I'll teach myself these;
+
+~ **C** - Isn't it like the mother of most programming languages?
+~ **C++** - Yeahhhhh, there's a reason why it's not one of my main goals lol...
+~ **Assembly...** - Probably makes C++ look like python
 
 ---
 
@@ -32,7 +40,7 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 
 ~ **LUA/LUAU** - I actually began my coding career when I started teaching myself to program thanks to ROBLOX when I was 14/15 years old... Yes, the kid's game platform. Surprisingly, it taught me alot of the core concepts of programming!
 
-~ **Javascript**
+~ **HTML/CSS/Javascript** - Ok ok, I know it's nothing special but everyone had to learn it at one point right?
 
 ---
 
