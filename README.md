@@ -17,8 +17,8 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 - *HTML/CSS/JavaScript* ✅ (2022-2023)  
 -  *React.js (Vite)* ⚒️ (1/16/2024 - Finished first real project using React + Vite 😎👉 https://github.com/BrandonMartinDev/Finanza-JS)  
 - *TypeScript* ⚒️  
-- *Sass/Scss* ⚒️  
-- *Node.js* ⚒️  
+- *Sass/Scss*  
+- *Node.js*  
 - *SQL/NoSQL*  
 - *Next.js*  
 - *C#*  
