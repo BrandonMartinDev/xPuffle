@@ -30,9 +30,9 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 
 **4:** When I got nothing else to do, maybe I'll teach myself these;
 
-~ **C** - Isn't it like the mother of most programming languages?
-~ **C++** - Yeahhhhh, there's a reason why it's not one of my main goals lol...
-~ **Assembly...** - Probably makes C++ look like python
+~ **C** - Isn't it like the mother of most programming languages?  
+~ **C++** - Yeahhhhh, there's a reason why it's not one of my main goals lol...  
+~ **Assembly...** - Probably makes C++ look like python  
 
 ---
 
