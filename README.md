@@ -33,7 +33,7 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next)](https://nextjs.org/)
-[![C#](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%20Sharp-black?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Blazor](https://img.shields.io/badge/blazor-black?style=for-the-badge&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 [![ASP.NET](https://img.shields.io/badge/asp.net-black?style=for-the-badge&logo=.net)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
