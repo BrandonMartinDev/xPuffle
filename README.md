@@ -14,15 +14,28 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 
 ⚒️ **1:** Be fluent in this tech stuff;
 
-- *HTML/CSS/JavaScript* ✅ (Mastered the basics 2022-2023)  
+- *HTML/CSS/JavaScript* ✅ (Got the basics down 2022-2023) 
 -  *React.js (Vite)* ⚒️ (1/16/2024 - Finished first real project using React + Vite 😎👉 https://github.com/BrandonMartinDev/Finanza-JS)  
 - *Sass/Scss* ⚒️
 - *TypeScript*    
-- *Node.js*  
-- *SQL/NoSQL*  
+- *Node.js*
+- *MongoDB/NoSQL*
+- *PostgreSQL*  
 - *Next.js*  
 - *C#*  
-- *Blazor* or *ASP.NET*  
+- *Blazor* or *ASP.NET*
+
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ReactJS](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass)](https://sass-lang.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![NodeJS](https://img.shields.io/badge/node-black?style=for-the-badge&logo=nodejs)](https://nodejs.org/en)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next)](https://nextjs.org/)
+[![C#](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Blazor](https://img.shields.io/badge/blazor-black?style=for-the-badge&logo=blazor)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+[![ASP.NET](https://img.shields.io/badge/asp.net-black?style=for-the-badge&logo=.net)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
 **2:** Secure a good job 
 
@@ -32,7 +45,11 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 
 - *C* - Isn't it like the mother of most programming languages?  
 - *C++* - Yeahhhhh, there's a reason why it's not one of my main goals lol...  
-- *Assembly...* - Probably makes C++ look like python  
+- *Assembly...* - Probably makes C++ look like python
+
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://devdocs.io/c/)
+[![C++](https://img.shields.io/badge/c-black?style=for-the-badge&logo=cplusplus)](https://devdocs.io/c/)
+[![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&logo=assembly)](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf)
 
 ---
 
@@ -41,6 +58,10 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 - **LUA/LUAU** - I actually began my coding career when I started teaching myself to program thanks to ROBLOX when I was 14/15 years old... Yes, the kid's game platform. Surprisingly, it taught me alot of the core concepts of programming!
 
 - **HTML/CSS/Javascript** - Ok ok, I know it's nothing special but everyone had to learn it at one point right?
+
+[![LUA](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://www.lua.org/)
+[![LUAU](https://img.shields.io/badge/luau-black?style=for-the-badge&logo=luau)](https://create.roblox.com/docs/luau)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
 
