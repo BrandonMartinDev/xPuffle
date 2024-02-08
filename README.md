@@ -48,7 +48,7 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 - *Assembly...* - Probably makes C++ look like python
 
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://devdocs.io/c/)
-[![C++](https://img.shields.io/badge/c-black?style=for-the-badge&logo=cplusplus)](https://devdocs.io/c/)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://devdocs.io/c/)
 [![Assembly](https://img.shields.io/badge/assembly-black?style=for-the-badge&logo=assembly)](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf)
 
 ---
