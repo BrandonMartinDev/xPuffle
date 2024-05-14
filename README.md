@@ -19,7 +19,7 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 - *TypeScript* ⚒️    
 - *Node.js* ⚒️
 - *MongoDB/NoSQL* ⚒️
-- *Sass/Scss* ⚒️
+- *Sass/Scss*
 - *PostgreSQL*  
 - *Next.js*  
 - *C#*  
