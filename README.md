@@ -1,6 +1,6 @@
 # HEYO!
 
-I'm Brandon, an upcoming full-stack software developer.
+I'm Brandon, a full-stack software engineer.
 
 ---
 
@@ -10,15 +10,14 @@ Full-Stack Web Development - I'm fascinated by the fact that I can type funny wo
 
 ---
 
-### My Goals
+### What I can do
 
-⚒️ **1:** Be fluent in this tech stuff (a checkmark does not mean that I have learned "everything" in that skill - you never stop learning :) - it just means that I've learned enough to be somewhat confident in my proficiency of it);
-
-- *HTML/CSS/JavaScript* ✅ (Got the basics down 2022-2023) 
--  *React.js (Vite)* ✅ (1/16/2024 - Finished first real project using React + Vite 😎👉 https://github.com/BrandonMartinDev/Finanza-JS)  
-- *Typescript/React with TypeScript* ⚒️    
+- *HTML/CSS/JavaScript*
+-  *React.js (Vite)*
+- *Typescript/React with TypeScript* ⚒️
 - *Node.js* ⚒️
 - *MongoDB/NoSQL* ⚒️
+
 - *Sass/Scss*
 - *PostgreSQL*  
 - *Next.js*  
